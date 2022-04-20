@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(32, 209, 209);
+    text-align: center;
+}
+.pic{
+    height: auto;
+    width: 200px;
+}
+
+ .prep {
+     text-align: center;
+ }
+ .prep ul{
+    list-style-type: none;
+ }
+
+ .ingreients ol{
+     list-style-type: none;
+     text-align: center;
+
+ }
+
+ 
